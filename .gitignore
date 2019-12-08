@@ -3,6 +3,7 @@
 
 .idea
 .iml
+adventOfCode2019.iml
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
